@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Hello World 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" 
+    alt="Hand with Fingers Splayed Light Skin Tone" 
+    width="30" 
+    height="30" />
+</h1>
+<h1>Ferramentas👨‍💻</h1>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,nodejs&theme=dark" />
 
-<!--
-**alexgeracaotech/alexgeracaotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center" >
+  <a href="https://github.com/alexgeracatech">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexgeracaotech&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgeracaotech&layout=compact&theme=radical"/>
+  </a>
