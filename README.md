@@ -5,7 +5,7 @@
     height="30" />
 </h1>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,nodejs&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,nodejs,express,linux&theme=dark" />
 
  <br> 
 
