@@ -5,10 +5,10 @@
     height="30" />
 </h1>
 <h1>Ferramentas👨‍💻</h1>
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,git,docker,linux&theme=dark" />
+<!--    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,git,docker,linux&theme=dark" />
 
  <br> 
-
+ -->
  <div align="center" >
   <a href="https://github.com/alexgeracatech">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexgeracaotech&show_icons=true&theme=radical"/>
