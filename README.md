@@ -4,7 +4,7 @@
     width="30" 
     height="30" />
 </h1>
-<h1>Ferramentas👨‍💻</h1>
+<!-- <h1>Ferramentas👨‍💻</h1> -->
 <!--    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,git,docker,linux&theme=dark" />
 
  <br> 
