@@ -5,8 +5,8 @@
     height="30" />
 </h1>
 <p align="center">Aqui você encontrará boa parte das artimanhas de código que desenvolvo em sala de aula junto com meus alunos.</p>
-<!-- <h1>Ferramentas👨‍💻</h1> -->
-<!--    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,git,docker,linux&theme=dark" />
+<h1>Ferramentas👨‍💻</h1>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,git,docker,linux&theme=dark" />
 
  <br> 
  -->
