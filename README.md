@@ -56,27 +56,6 @@ const alex = {
 - 💡 Contribuindo para projetos open source
 - 🤝 Colaborando com a comunidade de desenvolvedores
 
-## 🏆 Conquistas
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=alexbessa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
-## 📫 Como me encontrar
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexbessa)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexbessa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seuportfolio.com)
-
-</div>
-
----
-
 <div align="center">
   
   ### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
